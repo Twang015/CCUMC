@@ -4,8 +4,7 @@
    Author's custom styles
    ========================================================================== */
 .nav {
-	position: fixed;
-	margin-left: 15%;	
+	margin-left: 10%;
 	
 }
 
@@ -20,7 +19,10 @@
 
 .carouselSize {
 	width: 100%;
-	
+}
+
+body {
+	padding-top: 2.5%
 }
 
 
