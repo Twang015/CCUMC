@@ -4,8 +4,7 @@
    Author's custom styles
    ========================================================================== */
 .nav {
-	position: fixed;
-	margin-left: 15%;	
+	margin-left: 10%;
 	
 }
 
@@ -16,6 +15,10 @@
 
 .navbar-header {
 	color: yellow;
+}
+
+body {
+	padding-top: 2.5%
 }
 
 

@@ -11,12 +11,6 @@
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <style>
-            body {
-                padding-top: 50px;
-                padding-bottom: 20px;
-            }
-        </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -25,23 +19,13 @@
     </head>
     
     <body>
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
     
       <?php include 'navigation.php'; ?>
-
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <!-- 
-    <div class="jumbotron">
-      <div class="container">
-        <p><img class="welcomeimg" src="img/welcome.jpg"></p>
-        <p><h3>Welcome to first draft of the CCUMC EM page!</h3>This draft was created to demo a bit of what the site structure should look and feel like. Due to the site 			being in draft, please feel free to suggest any thoughts or opinions you have. This is a work-in-progress so we want to thank you for your patience.</p>
-        <p><a class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-      </div>
-    </div>
-    -->
-
+      
+      <hr>
     <!-- Carousel -->
 
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -79,21 +63,27 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-lg-6">
-          <div class="col-lg-4">
-            <h2>Are You New?</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
-          </div>
-          <div class="col-lg-4">
-            <h2>Service Info</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
-          </div>
+        <div class="col-lg-4">
+          <h2>Are You New?</h2>
+          <p>Thank you for visiting Aletheia Ministries! Take a look around to connect with our ministry areas, access recent sermons, and to find out more about us. The best way to experience Aletheia Ministries is to join us for worship, and we would love to visit with you in person.</p>
+          <p><a class="btn btn-default" href="#">Our Location & Times &raquo;</a></p>
         </div>
-        <div class="col-lg-6">
-          <h2>Latest News</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <div class="col-lg-4">
+          <h2>Recent Sermons</h2>
+          <h3>Audio File</h3>
+          <a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3">Click Here</a>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=matthew+21:1-11">Mathew 21: 1-11</a> </p>
+
+          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <h2>Upcoming Events</h2>
+          <ul>
+            <li>Good Friday Service: 4/18/2014 @ 8PM</li>
+            <li>Easter Service: 4/20/2014 @ 2PM </li>
+            <li>Book Discussion with Dr. Boyung Lee: 4/28/2014 @ 7:30PM</li>
+            <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
+          </ul>
           <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
         </div>
       </div>
@@ -110,7 +100,7 @@
 
         <script src="js/vendor/bootstrap.min.js"></script>
 
-        <script src="js/main.js"></script>
+        <script src="js/main.js"></script>f
 
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
