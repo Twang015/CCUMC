@@ -83,7 +83,8 @@
           <div class="col-lg-4">
             <h2>Are You New?</h2>
             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+            <p><button id="location" type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-original-title="title" title data-content="Address: 260 Walnut Avenue Walnut Creek, CA 94598">Location &raquo;</button>
+            </p>
           </div>
           <div class="col-lg-4">
             <h2>Service Info</h2>

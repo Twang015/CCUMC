@@ -11,11 +11,16 @@
 
 .welcomeimg {
 	width: 100%;
-	height: auto;
+	height: 400px;
 }
 
 .navbar-header {
 	color: yellow;
+}
+
+.carouselSize {
+	width: 100%;
+	
 }
 
 

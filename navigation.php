@@ -10,8 +10,8 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connect <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -20,13 +20,13 @@
                 <li><a href="#">Youth Ministry</a></li>
                 <li class="dropdown-header">Small Groups</li>
               </ul>
-            <li><a href="#about">Events</a></li>
+            <li><a href="events.php">Events</a></li>
             </li> 
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Sermon Audio</a></li>
-                <li><a href="#">Bible Reading</a></li>
+                <li><a href="sermon-audio.php">Sermon Audio</a></li>
+                <li><a href="https://www.facebook.com/groups/440856946040726/" target="_blank">Bible Reading</a></li>
                 <li class="divider"></li>
                 <li><a href="#">FAQ</a></li>
               </ul>
