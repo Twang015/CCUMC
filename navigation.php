@@ -27,8 +27,7 @@
               <ul class="dropdown-menu">
                 <li><a href="sermon-audio.php">Sermon Audio</a></li>
                 <li><a href="https://www.facebook.com/groups/440856946040726/" target="_blank">Bible Reading</a></li>
-                <li class="divider"></li>
-                <li><a href="#">FAQ</a></li>
+                <!-- <li class="divider"></li> -->
               </ul>
             </li>
           </ul>
