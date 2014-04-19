@@ -24,11 +24,28 @@
 
         <div class="container">
             <h2> About us   </h2>
-            <p> We are a church</p>
-            <h2> Our Values </h2>
-            <p> This is what we beleive in</p>
-            <h2>This is our Mission</h2>
-            <p>To share the gospel to all nations in this world. </p>
+            <p>"God is spirit, and those who worship God must worship in spirit and in truth." (John 4:24)</p>
+            <h4> Worship </h4>
+            <ul> 
+                <li>We open our hearts, our doors, and our minds to all who seek God in spirit and in truth.</li>
+                <li>We worship God with traditional and contemporary liturgies as a response to the spiritual needs of our time.</li>
+                <li>We seek to center our worship upon Jesus Christ because we believe that Jesus is the Living Water who eternally quenches our parched souls.</li>
+                <li>We provide our space as an oasis for sojourners and those who seek a new spiritual home.</li>
+            </ul>
+            <h4>Discipleship</h4>
+            <ul>
+                <li>We invite all people from various walks of life to join us for deeper discernment by engaging the Sacred Scripture with reason, experience, and various traditions.</li>
+                <li>We hope to transform ourselves by participating in spiritual formations, communal activities, and small group meetings.</li>
+                <li>We encourage our members to become disciples of Christ by delightfully serving others, sharing God-given gifts, and leading in various ministries.</li>
+                <li>We challenge ourselves through mutual repentence, forgiveness, and walking the narrow path that pushes us beyond our comfort zones.</li>
+            </ul>
+            <h4>Sharing</h4>
+            <ul>
+                <li>We strive to share the Gospel to the ends of the world by participating in God's liberating justice, reconciling spirit, and progressive healing of the world.</li>
+                <li>We affirm our United Methodist heritage by caring for the needs of our neighbors locally and globally through the guidance of the Holy Spirit.</li>
+                <li>We seek to collaborate with other churches and organizations for mutual enrichment and spiritual edification.</li>
+                <li>We acknowledge our Asian roots and envision ourselves sharing the Gospel beyond the boundaries of our Asian-American culture.</li>    
+            </ul>
 
             <?php include 'footer.php'; ?>
 

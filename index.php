@@ -65,7 +65,7 @@
         <div class="col-lg-4">
           <h2>Are You New?</h2>
           <p>Thank you for visiting Aletheia Ministries! Take a look around to connect with our ministry areas, access recent sermons, and to find out more about us. The best way to experience Aletheia Ministries is to join us for worship, and we would love to visit with you in person.</p>
-          <p><button id="location1" type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-original-title="Aletheia Sunday Worship" title data-content="Service Time: Sundays at 2:00 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Service Info &raquo;</button></p>
+          <p><button id="location1" type="button" class="btn btn-primary" data-container="body" data-toggle="popover" data-placement="right" data-trigger="hover" data-original-title="Worship Times and Location" data-content="Sunday Service: 2:00 PM <br> Friday Night Bible Study: 7:30 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Worship Times &raquo;</button></p>
         </div>
 
         <div class="col-lg-4">
