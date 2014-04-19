@@ -34,8 +34,8 @@
           </ul>
 
         <div class="navbar-right">
-          <a class="navbar-text" href="https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773" target="_blank">260 Walnut Ave. Walnut Creek, CA 94598</a>
-        </div>
+          <a href="#" id="location" class="navbar-brand navbar-times" data-container="body" data-toggle="popover" data-placement="bottom" data-original-title="Aletheia Sunday Worship" title data-content="Service Time: Sundays at 2:00 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Service Information</a>
+        </div>  
         </div><!--/.navbar-collapse -->
       </div>
 </div>

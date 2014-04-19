@@ -21,12 +21,22 @@
 	width: 100%;
 }
 
-body {
-	padding-top: 2.5%
+.caro {
+	margin-top: 3%
 }
 
+.navbar-times {
+  font-size: 15px;
 
+}
 
+.footerstyle1 {
+	float: left;
+}
+
+.footerstyle2 {
+	float: right;
+}
 
 
 

@@ -25,10 +25,9 @@
     
       <?php include 'navigation.php'; ?>
       
-      <hr>
     <!-- Carousel -->
 
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <div id="carousel-example-generic" class="carousel slide caro" data-ride="carousel">
     <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -60,22 +59,15 @@
 
 <!-- end Carousel -->
 
-    <div class="container">
+    <div class="container caro">
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-lg-4">
           <h2>Are You New?</h2>
           <p>Thank you for visiting Aletheia Ministries! Take a look around to connect with our ministry areas, access recent sermons, and to find out more about us. The best way to experience Aletheia Ministries is to join us for worship, and we would love to visit with you in person.</p>
-          <p><button id="location" type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-original-title="title" title data-content="Address: 260 Walnut Avenue Walnut Creek, CA 94598">Location &raquo;</button></p>
+          <p><button id="location1" type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-original-title="Aletheia Sunday Worship" title data-content="Service Time: Sundays at 2:00 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Service Info &raquo;</button></p>
         </div>
-        <div class="col-lg-4">
-          <h2>Recent Sermons</h2>
-          <h3>Audio File</h3>
-          <a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3">Click Here</a>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=matthew+21:1-11">Mathew 21: 1-11</a> </p>
 
-          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
-        </div>
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
@@ -84,7 +76,16 @@
             <li>Book Discussion with Dr. Boyung Lee: 4/28/2014 @ 7:30PM</li>
             <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
           </ul>
-          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
+        </div>
+
+        <div class="col-lg-4">
+          <h2>Recent Sermons</h2>
+          <h3><a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3">April 14th 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=matthew+21:1-11">Mathew 21: 1-11</a> </p>
+          <br>
+
+          <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>
         </div>
       </div>
 

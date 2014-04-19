@@ -6,17 +6,11 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Aletheia Ministries</title>
+        <title>About Us</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <style>
-            body {
-                padding-top: 50px;
-                padding-bottom: 20px;
-            }
-        </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -29,7 +23,12 @@
         <?php include 'navigation.php'; ?>
 
         <div class="container">
-
+            <h2> About us   </h2>
+            <p> We are a church</p>
+            <h2> Our Values </h2>
+            <p> This is what we beleive in</p>
+            <h2>This is our Mission</h2>
+            <p>To share the gospel to all nations in this world. </p>
 
             <?php include 'footer.php'; ?>
 
