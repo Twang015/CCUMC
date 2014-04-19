@@ -22,6 +22,8 @@
         <?php include 'navigation.php'; ?>
 
         <div class="container">
+            <h2>Events and Activities</h2>
+            <p>We currently track all of our events through Facebook. Please find more information on our <a href="https://www.facebook.com/groups/158626917493699/" target="_blank">Facebook page</a>.</p>
 
 
             <?php include 'footer.php'; ?>

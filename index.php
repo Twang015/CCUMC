@@ -70,10 +70,9 @@
 
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
-          <ul>
-            <li>Good Friday Service: 4/18/2014 @ 8PM</li>
+          <ul>            
             <li>Easter Service: 4/20/2014 @ 2PM </li>
-            <li>Book Discussion with Dr. Boyung Lee: 4/28/2014 @ 7:30PM</li>
+            <li>Book Discussion with Dr. Boyung Lee: 4/25/2014 @ 7:30PM</li>
             <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
