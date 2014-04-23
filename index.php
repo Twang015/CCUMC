@@ -44,7 +44,7 @@
         <img src="img/Book.png" alt="Transforming Congregations Through Community">
       </div>
       <div class="item">
-        <img src="img/Kickball.png" alt="Kickball Tournament">
+        <a href="https://www.facebook.com/events/1452579724973638/" target="_blank"><img src="img/Kickball.png" alt="Kickball Tournament"></a>
       </div>
     </div>
 
