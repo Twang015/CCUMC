@@ -44,7 +44,7 @@
         <img src="img/Book.png" alt="Transforming Congregations Through Community">
       </div>
       <div class="item">
-        <a href="https://www.facebook.com/events/1452579724973638/" target="_blank"><img src="img/Kickball.png" alt="Kickball Tournament"></a>
+        <img src="img/Kickball.png" alt="Kickball Tournament">
       </div>
     </div>
 
@@ -65,14 +65,15 @@
         <div class="col-lg-4">
           <h2>Are You New?</h2>
           <p>Thank you for visiting Aletheia Ministries! Take a look around to connect with our ministry areas, access recent sermons, and to find out more about us. The best way to experience Aletheia Ministries is to join us for worship, and we would love to visit with you in person.</p>
-          <p><button id="location1" type="button" class="btn btn-primary" data-container="body" data-toggle="clickover" data-placement="right" data-trigger="hover" data-original-title="Worship Times and Location" data-content="Sunday Service: 2:00 PM <br> Friday Night Bible Study: 7:30 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Worship Times &raquo;</button></p>
+          <p><button id="location1" type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-original-title="Aletheia Sunday Worship" title data-content="Service Time: Sundays at 2:00 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Service Info &raquo;</button></p>
         </div>
 
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
-          <ul> 
-            <li>Book Discussion with Dr. Boyung Lee: 4/25/2014 @ 7:30PM</li>
-            <li>Earth Day Service: 4/27/2014 @ 2PM. Bring your pets!</li>
+          <ul>
+            <li>Good Friday Service: 4/18/2014 @ 8PM</li>
+            <li>Easter Service: 4/20/2014 @ 2PM </li>
+            <li>Book Discussion with Dr. Boyung Lee: 4/28/2014 @ 7:30PM</li>
             <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
@@ -80,8 +81,8 @@
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3">April 14th 2014 Sermon</a></h3>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=matthew+21:1-11">Mathew 21: 1-11</a> </p>
+          <h3><a href="https://www.dropbox.com/s/9v6sxj9vwf8uu3j/Sunday%20Sermon%204-23-2014.mp3">April 20th 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=Acts+10%3A34-43">Acts 10:34-40</a> </p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>
@@ -100,9 +101,7 @@
 
         <script src="js/vendor/bootstrap.min.js"></script>
 
-        <script src="js/main.js"></script>
-
-        <script src="js/bootstrapx-clickover.js"></script>
+        <script src="js/main.js"></script>f
 
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
