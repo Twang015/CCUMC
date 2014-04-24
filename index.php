@@ -80,8 +80,8 @@
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3">April 14th 2014 Sermon</a></h3>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=matthew+21:1-11">Mathew 21: 1-11</a> </p>
+          <h3><a href="https://www.dropbox.com/s/yw6ktx3ffpx4j37/Sunday%20Sermon%204-20-2014.mp3">April 20th 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=acts+10:34-40">Acts 10: 34-40</a> </p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>
