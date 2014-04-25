@@ -30,10 +30,11 @@
                 <img id="kickball-ad" class="img-responsive" src="img/kickball-ad.png" height="600" width="472" alt="kickball tourney" title="Click to download info">
             </a>
 
-
-            <?php include 'footer.php'; ?>
-
         </div>
+
+        <hr>
+
+        <?php include 'footer.php'; ?>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
