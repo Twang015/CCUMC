@@ -102,7 +102,7 @@
 
         <script src="js/main.js"></script>
 
-        <script src="js/bootstrapx-clickover.js"></script>
+        <script src="js/vendor/bootstrapx-clickover.js"></script>
 
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];

@@ -24,8 +24,14 @@
                 <li><a href="#">Media/Communications Ministry</a></li>
                 <li><a href="#">Youth Ministry</a></li>
                 <li class="dropdown-header">Small Groups</li>
+              </ul>            
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
+              <ul class="dropdown-menu">                
+                <li><a href="events.php">Events</a></li>
+                <li><a href="calendar.php">Calendar</a></li>
               </ul>
-            <li><a href="events.php">Events</a></li>
             </li> 
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
