@@ -49,8 +49,7 @@
             <div id="calendar"></div>
         </div>
         <div class="col-md-3">
-            <h4>Events</h4>
-            <small>This list is populated with events dynamically</small>
+            <h4>Events</h4>            
             <ul id="eventlist" class="nav nav-list"></ul>
         </div>
 

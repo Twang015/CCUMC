@@ -32,16 +32,12 @@
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
       </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
-      </div>
-      <div class="item">
-        <img src="img/Book.png" alt="Transforming Congregations Through Community">
       </div>
       <div class="item">
         <a href="https://www.facebook.com/events/1452579724973638/" target="_blank"><img src="img/Kickball.png" alt="Kickball Tournament"></a>
@@ -71,8 +67,6 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul> 
-            <li>Book Discussion with Dr. Boyung Lee: 4/25/2014 @ 7:30PM</li>
-            <li>Earth Day Service: 4/27/2014 @ 2PM. Bring your pets!</li>
             <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
@@ -80,8 +74,8 @@
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/yw6ktx3ffpx4j37/Sunday%20Sermon%204-20-2014.mp3">April 20th 2014 Sermon</a></h3>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=acts+10:34-43" target="_blank">Acts 10: 34-43</a> </p>
+          <h3><a href="https://www.dropbox.com/s/xset7nzmy7eujya/Sunday%20Sermon%204-27-2014.mp3">April 27th 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=Genesis+1%3A1-5&version=ESV" target="_blank">Genesis 1:1-5, 20-27</a> </p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>
