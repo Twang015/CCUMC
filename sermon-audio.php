@@ -29,8 +29,10 @@
                     <p>These are links to the past sermons</p>
                     <h4>2014</h4>
                     <ul>
-                        <li><a href="https://www.dropbox.com/s/xset7nzmy7eujya/Sunday%20Sermon%204-27-2014.mp3" targe="_blank">April 27, 2014</a>
-                        <li><a href="https://www.dropbox.com/s/yw6ktx3ffpx4j37/Sunday%20Sermon%204-20-2014.mp3" targe="_blank">April 20, 2014</a>
+                        <li><a href="https://www.dropbox.com/s/q03dczrnh6coju3/Sunday%20-%20May%2011th%202014.mp3" target="_blank">May 11, 2014</a> <a href="files/bulletins/alet - may 11 2014.docx">[bulletin]</a></li>
+                        <li><a href="#">May 4, 2014</a> <a href="files/bulletins/alet - may 4 2014.docx">[bulletin]</a></li>
+                        <li><a href="https://www.dropbox.com/s/xset7nzmy7eujya/Sunday%20Sermon%204-27-2014.mp3" targe="_blank">April 27, 2014</a> <a href="files/bulletins/aletheiabulletin02.docx">[bulletin]</a></li>
+                        <li><a href="https://www.dropbox.com/s/yw6ktx3ffpx4j37/Sunday%20Sermon%204-20-2014.mp3" targe="_blank">April 20, 2014</a> <a href="files/bulletins/aletheiabulletin01.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3" targe="_blank">April 13, 2014</a>
                         <li><a href="https://www.dropbox.com/s/hg0mwdqgqlb6h8i/Sunday%20Sermon%204%3A6%3A14.mp3" target="_blank">April 6, 2014</a>
                         <li><a href="https://www.dropbox.com/s/58r9xgliboj5fxx/Sunday%20Sermon%20-%20March%2030th.mp3" target="_blank">March 30, 2014</a>

@@ -12,7 +12,14 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
+            <li class="dropdown">
+              <a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="about.php#newToMin">New to Aletheia Ministries</a></li>
+                <li><a href="about.php#whatToExpect">What to Expect</a></li>
+                <li><a href="about.php#ourStaff">Our Staff</a></li>
+              </ul>
+            </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connect <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -22,8 +29,8 @@
                 <li><a href="#">Mission Ministry</a></li>
                 <li><a href="#">Praise Ministry</a></li>
                 <li><a href="#">Media/Communications Ministry</a></li>
-                <li><a href="#">Youth Ministry</a></li>
-                <li class="dropdown-header">Small Groups</li>
+                <li><a href="#">Community Life Ministry</a></li>
+                <!--<li class="dropdown-header">Small Groups</li>-->
               </ul>            
             </li>
             <li class="dropdown">

@@ -40,6 +40,46 @@
 			"class": "event-success",
 			"start": "1403967600000",
 			"end": "1403992800000"
+		},
+		{
+			"id": "6",
+			"title": "Birthday: Aaron Ting",
+			"url": "",
+			"class": "event-special",
+			"start": "1400137200000",
+			"end": "1400137200000"
+		},
+		{
+			"id": "7",
+			"title": "Birthday: Tom Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1401174000000",
+			"end": "1401174000000"
+		},
+		{
+			"id": "8",
+			"title": "Birthday: Kwan Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1401260400000",
+			"end": "1401260400000"
+		},
+		{
+			"id": "9",
+			"title": "Birthday: Jason Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1400482800000",
+			"end": "1400482800000"
+		},
+		{
+			"id": "10",
+			"title": "May Monthly Activity - Sky High (Dodgeball)",
+			"url": "https://www.facebook.com/events/878523282177368/?ref_newsfeed_story_type=regular",
+			"class": "event-success",
+			"start": "1400900400000",
+			"end": "1400904000000"
 		}
 
 

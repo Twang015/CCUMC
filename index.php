@@ -74,8 +74,8 @@
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/xset7nzmy7eujya/Sunday%20Sermon%204-27-2014.mp3">April 27th 2014 Sermon</a></h3>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=Genesis+1%3A1-5&version=ESV" target="_blank">Genesis 1:1-5, 20-27</a> </p>
+          <h3><a href="https://www.dropbox.com/s/q03dczrnh6coju3/Sunday%20-%20May%2011th%202014.mp3">May 11th 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=Acts%202:42-47" target="_blank">Acts 2:42-47</a></p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>
