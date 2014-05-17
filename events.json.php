@@ -80,6 +80,14 @@
 			"class": "event-success",
 			"start": "1400900400000",
 			"end": "1400904000000"
+		},
+		{
+			"id": "11",
+			"title": "Prayer Lock-In",
+			"url": "",
+			"class": "event-success",
+			"start": "1401058800000",
+			"end": "1401145200000"
 		}
 
 
