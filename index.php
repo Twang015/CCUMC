@@ -66,7 +66,11 @@
 
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
-          <ul> 
+          <ul>
+            <li>May Monthly Activity - Sky High Dodgeball: 5/23/2014 @7:30 PM</li>
+            <li>Prayer Lock-in: 5/25/2014 @4:00 PM - 5/26/2014</li>
+            <li>Glide SF Volunteering: 6/7/2014 @9:30 AM</li>
+            <li>Joint Service: 6/8/2014 @11:15 AM</li>
             <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
