@@ -67,8 +67,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>May Monthly Activity - Sky High Dodgeball: 5/23/2014 @7:30 PM</li>
-            <li>Prayer Lock-in: 5/25/2014 @4:00 PM - 5/26/2014</li>
+            <li>New Friday Night Bible Study 3 week series: <a href="http://www.amazon.com/Hope-Bible-Study-Becoming-Studies-ebook/dp/B00BG00HFG/ref=sr_1_1?ie=UTF8&qid=1401228769&sr=8-1&keywords=heather+bixler" target="_blank">Hope by Heather Bixler</a>. Starting 5/30/2014</li>
             <li>Glide SF Volunteering: 6/7/2014 @9:30 AM</li>
             <li>Joint Service: 6/8/2014 @11:15 AM</li>
             <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
@@ -78,8 +77,8 @@
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/q03dczrnh6coju3/Sunday%20-%20May%2011th%202014.mp3">May 11th 2014 Sermon</a></h3>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=Acts%202:42-47" target="_blank">Acts 2:42-47</a></p>
+          <h3><a href="https://dl.dropboxusercontent.com/u/87231101/2014%2005.25%20Aletheia%20Sunday%20Sermon.mp3">May 25th 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=John%2014:15-21" target="_blank">John 14:15-21</a></p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>

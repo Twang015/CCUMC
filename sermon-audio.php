@@ -29,6 +29,8 @@
                     <p>These are links to the past sermons</p>
                     <h4>2014</h4>
                     <ul>
+                        <li><a href="https://dl.dropboxusercontent.com/u/87231101/2014%2005.25%20Aletheia%20Sunday%20Sermon.mp3" target="_blank">May 25, 2014</a> // <a href="#">[bulletin]</a></li>
+                        <li><a href="#" target="_blank">May 18, 2014</a> // <a href="files/bulletins/alet - may 18 2014.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/q03dczrnh6coju3/Sunday%20-%20May%2011th%202014.mp3" target="_blank">May 11, 2014</a> // <a href="files/bulletins/alet - may 11 2014.docx">[bulletin]</a></li>
                         <li><a href="#">May 4, 2014</a> // <a href="files/bulletins/alet - may 4 2014.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/xset7nzmy7eujya/Sunday%20Sermon%204-27-2014.mp3" targe="_blank">April 27, 2014</a> // <a href="files/bulletins/aletheiabulletin02.docx">[bulletin]</a></li>
