@@ -77,8 +77,8 @@
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://dl.dropboxusercontent.com/u/87231101/2014%2005.25%20Aletheia%20Sunday%20Sermon.mp3">May 25th 2014 Sermon</a></h3>
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=John%2014:15-21" target="_blank">John 14:15-21</a></p>
+          <h3><a href="https://www.dropbox.com/s/t26wss3t61jx5lb/Sunday%20Sermon%20-%20June%201st%202014.mp3">June 1st 2014 Sermon</a></h3>
+          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=1+PETER+4%3A12-14%3B5%3A6-11&version=ESV" target="_blank">1 Peter 4:12-14, 5:6-11</a></p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>
