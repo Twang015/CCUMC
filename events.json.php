@@ -88,6 +88,38 @@
 			"class": "event-success",
 			"start": "1401058800000",
 			"end": "1401145200000"
+		},
+		{
+			"id": "12",
+			"title": "Birthday: Won Jun Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1402815600000",
+			"end": "1402815600000"
+		},
+		{
+			"id": "13",
+			"title": "CCUMC VBS Volunteering",
+			"url": "",
+			"class": "event-success",
+			"start": "1406304000000",
+			"end": "1406325600000"
+		},
+		{
+			"id": "14",
+			"title": "CCUMC VBS Volunteering",
+			"url": "",
+			"class": "event-success",
+			"start": "1406390400000",
+			"end": "1406412000000"
+		},
+		{
+			"id": "15",
+			"title": "CCUMC Mission Trip",
+			"url": "",
+			"class": "event-success",
+			"start": "1407740400000",
+			"end": "1407913200000"
 		}
 
 
