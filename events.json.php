@@ -156,7 +156,7 @@
 		{
 			"id": "20",
 			"title": "July 4th BBQ",
-			"url": "";
+			"url": "",
 			"class": "event-success",
 			"start": "1404518400000",
 			"end": "1404532800000"
