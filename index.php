@@ -39,9 +39,6 @@
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
-      <div class="item">
-        <a href="https://www.facebook.com/events/1452579724973638/" target="_blank"><img src="img/Kickball.png" alt="Kickball Tournament"></a>
-      </div>
     </div>
 
   <!-- Controls -->
