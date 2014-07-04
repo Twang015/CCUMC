@@ -67,8 +67,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>New Friday Night Bible Study 3 week series: <a href="http://www.amazon.com/Hope-Bible-Study-Becoming-Studies-ebook/dp/B00BG00HFG/ref=sr_1_1?ie=UTF8&qid=1401228769&sr=8-1&keywords=heather+bixler" target="_blank">Hope by Heather Bixler</a>. Starting 5/30/2014</li>
-            <li>Kickball Tournament: 6/28/2014 @ 8AM</li>
+            <li>July 4th BBQ: 7/4/2014 at 5:00 PM</li>
             <li>CCUMC VBS: 7/25 - 7/26 from 9 AM to 3 PM</li>
             <li>CCUMC Mission Trip: 8/11 - 8/13</li>
           </ul>

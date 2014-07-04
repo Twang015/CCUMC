@@ -115,11 +115,51 @@
 		},
 		{
 			"id": "15",
-			"title": "CCUMC Mission Trip",
+			"title": "CCUMC Mission Trip: Greenville UMC, 206 Pine St. Greenville, CA 95947",
 			"url": "",
 			"class": "event-success",
 			"start": "1407740400000",
 			"end": "1407913200000"
+		},
+		{
+			"id": "16",
+			"title": "Birthday: Tim Wang",
+			"url": "",
+			"class": "event-special",
+			"start": "1404975600000",
+			"end": "1404975600000"
+		},
+		{
+			"id": "17",
+			"title": "Birthday: Hwan Kim",
+			"url": "",
+			"class": "event-special",
+			"start": "1406012400000",
+			"end": "1406012400000"
+		},
+		{
+			"id": "18",
+			"title": "Birthday: Joyce Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1406098800000",
+			"end": "1406098800000"
+		},
+		{
+			"id": "19",
+			"title": "Birthday: David Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1406703600000",
+			"end": "1406703600000"
+		},
+		{
+			"id": "20",
+			"title": "July 4th BBQ",
+			"url": "";
+			"class": "event-success",
+			"start": "1404518400000",
+			"end": "1404532800000"
 		}
 
 
