@@ -39,6 +39,9 @@
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
+      <div class="item">
+        <img src="img/beachday.jpg" alt="Beach Day" class="carouselSize">        
+      </div>
     </div>
 
   <!-- Controls -->
