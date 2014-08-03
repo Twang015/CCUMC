@@ -40,7 +40,7 @@
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
       <div class="item">
-        <img src="img/beachday.jpg" alt="Beach Day" class="carouselSize">        
+        <a href="https://www.facebook.com/events/1447808718817480/" target="_blank"><img src="img/beachday.jpg" alt="Click for more details." class="carouselSize"></a>
       </div>
     </div>
 
