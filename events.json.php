@@ -160,8 +160,23 @@
 			"class": "event-success",
 			"start": "1404518400000",
 			"end": "1404532800000"
+		},
+		{
+			"id": "21",
+			"title": "Hiking/Beach Day: Meet at church @7:30 AM for hike or @3:00 PM for beach",
+			"url": "",
+			"class": "event-success",
+			"start": "1405780200000",
+			"end": "1405832400000"
+		},
+		{
+			"id": "22",
+			"title": "Bonfire/Beach Day - Ocean Beach, SF: Meet at church @9:00 AM.",
+			"url": "",
+			"class": "event-success",
+			"start": "1408204800000",
+			"end": "1408253400000"
 		}
-
 
 	]
 }

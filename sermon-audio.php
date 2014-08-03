@@ -29,15 +29,19 @@
                     <p>These are links to the past sermons</p>
                     <h4>2014</h4>
                     <ul>
-                        <li><a href="#" target="_blank">June 29, 2014</a> // <a href="files/bulletins/alet - june 29 2014.docx">[bulletin]</a></li>
-                        <li><a href="#" target="_blank">June 22, 2014</a> // <a href="files/bulletins/alet - june 22 2014.docx">[bulletin]</a></li>
-                        <li><a href="#" target="_blank">June 15, 2014</a> // <a href="files/bulletins/alet - june 15 2014.docx">[bulletin]</a></li>
-                        <li><a href="#" target="_blank">June 8, 2014</a> // <a href="#">[bulletin]</a></li>
+                        <li>July 27, 2014 // <a href="files/bulletins/alet - jul 27 2014.docx">[bulletin]</a></li>
+                        <li>July 20, 2014 // <a href="files/bulletins/alet - jul 20 2014.docx">[bulletin]</a></li>
+                        <li>July 13, 2014 // [bulletin]</li>
+                        <li>July 6, 2014 // <a href="files/bulletins/alet - jul 6 2014.docx">[bulletin]</a></li>
+                        <li>June 29, 2014 // <a href="files/bulletins/alet - june 29 2014.docx">[bulletin]</a></li>
+                        <li>June 22, 2014 // <a href="files/bulletins/alet - june 22 2014.docx">[bulletin]</a></li>
+                        <li>June 15, 2014 // <a href="files/bulletins/alet - june 15 2014.docx">[bulletin]</a></li>
+                        <li>June 8, 2014 // [bulletin]</li>
                         <li><a href="https://www.dropbox.com/s/t26wss3t61jx5lb/Sunday%20Sermon%20-%20June%201st%202014.mp3" target="_blank">June 1, 2014</a> // <a href="files/bulletins/alet - june 1 2014.docx">[bulletin]</a></li>
                         <li><a href="https://dl.dropboxusercontent.com/u/87231101/2014%2005.25%20Aletheia%20Sunday%20Sermon.mp3" target="_blank">May 25, 2014</a> // <a href="files/bulletins/alet - may 25 2014.docx">[bulletin]</a></li>
-                        <li><a href="#" target="_blank">May 18, 2014</a> // <a href="files/bulletins/alet - may 18 2014.docx">[bulletin]</a></li>
+                        <li>May 18, 2014 // <a href="files/bulletins/alet - may 18 2014.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/q03dczrnh6coju3/Sunday%20-%20May%2011th%202014.mp3" target="_blank">May 11, 2014</a> // <a href="files/bulletins/alet - may 11 2014.docx">[bulletin]</a></li>
-                        <li><a href="#">May 4, 2014</a> // <a href="files/bulletins/alet - may 4 2014.docx">[bulletin]</a></li>
+                        <li>May 4, 2014 // <a href="files/bulletins/alet - may 4 2014.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/xset7nzmy7eujya/Sunday%20Sermon%204-27-2014.mp3" targe="_blank">April 27, 2014</a> // <a href="files/bulletins/aletheiabulletin02.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/yw6ktx3ffpx4j37/Sunday%20Sermon%204-20-2014.mp3" targe="_blank">April 20, 2014</a> // <a href="files/bulletins/aletheiabulletin01.docx">[bulletin]</a></li>
                         <li><a href="https://www.dropbox.com/s/7ftjjecyt77x4zo/Sunday%20Sermon%204-13-2014.mp3" targe="_blank">April 13, 2014</a>
@@ -65,6 +69,7 @@
         <?php include 'footer.php'; ?>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <!-- <script src="js/vendor/jquery-1.10.1.min.js"></script> -->
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>

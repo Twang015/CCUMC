@@ -64,9 +64,8 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>July 4th BBQ: 7/4/2014 at 5:00 PM</li>
-            <li>CCUMC VBS: 7/25 - 7/26 from 9 AM to 3 PM</li>
             <li>CCUMC Mission Trip: 8/11 - 8/13</li>
+            <li>Bonfire/Beach Day - Ocean Beach, SF: 8/16 @9:00 AM - 10:30 PM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>
@@ -87,7 +86,8 @@
     
     <?php include 'footer.php'; ?>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <!-- <script src="js/vendor/jquery-1.10.1.min.js"></script>         -->
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>

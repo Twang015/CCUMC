@@ -20,19 +20,7 @@
                 <li><a href="about.php#ourStaff">Our Staff</a></li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Connect <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-              	<li class="dropdown-header">Ministries</li>
-                <li><a href="#">Worship Ministry</a></li>
-                <li><a href="#">Activities Ministry</a></li>
-                <li><a href="#">Mission Ministry</a></li>
-                <li><a href="#">Praise Ministry</a></li>
-                <li><a href="#">Media/Communications Ministry</a></li>
-                <li><a href="#">Community Life Ministry</a></li>
-                <!--<li class="dropdown-header">Small Groups</li>-->
-              </ul>            
-            </li>
+            <li><a href="connect.php">Connect</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
               <ul class="dropdown-menu">                
@@ -45,6 +33,7 @@
               <ul class="dropdown-menu">
                 <li><a href="sermon-audio.php">Sermon Audio</a></li>
                 <li><a href="https://www.facebook.com/groups/440856946040726/" target="_blank">Bible Reading</a></li>
+                <!-- <li><a href="gallery.php">Gallery</a></li> -->
                 <!-- <li class="divider"></li> -->
               </ul>
             </li>

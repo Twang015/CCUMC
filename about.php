@@ -130,6 +130,7 @@
                 Jenny, Jong Duk, Andy Y. (Worship)<br>
                 Jennifer (Finance)<br>
                 Chris, Stephanie (Activities)<br>
+                Aaron T. (Community Life)<br>
                 Tim, Young (Communications)<br>
             </p>
 
