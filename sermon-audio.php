@@ -29,6 +29,8 @@
                     <p>These are links to the past sermons</p>
                     <h4>2014</h4>
                     <ul>
+                        <li>August 24, 2014 // <a href="files/bulletins/8.24 Bulletin.pdf">[bulletin]</a></li>
+                        <li>August 3, 2014 // <a href="files/bulletins/alet - aug 3 2014.docx">[bulletin]</a></li>
                         <li>July 27, 2014 // <a href="files/bulletins/alet - jul 27 2014.docx">[bulletin]</a></li>
                         <li>July 20, 2014 // <a href="files/bulletins/alet - jul 20 2014.docx">[bulletin]</a></li>
                         <li>July 13, 2014 // [bulletin]</li>
