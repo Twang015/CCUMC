@@ -176,6 +176,14 @@
 			"class": "event-success",
 			"start": "1408204800000",
 			"end": "1408253400000"
+		},
+		{
+			"id": "23",
+			"title": "Birthday: Rebekah Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1409727600000",
+			"end": "1409727600000"
 		}
 
 	]
