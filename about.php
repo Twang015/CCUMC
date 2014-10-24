@@ -70,7 +70,7 @@
                 <br>
                 Sunday Worship: 2:00pm<br>
                 Friday Gathering: 7:30pm<br>
-                Small Group Meetings: varies (please contact Pastor Paul: <a href="mailto:pauldhjeong@yahoo.com">pauldhjeong@yahoo.com</a>)
+                Small Group Meetings: varies (please contact Pastor Travis: <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>)
             </p>
             <p>
                 <b>What's Sunday Service like?</b>
@@ -115,14 +115,14 @@
                     <li>Small Groups ministry</li>
                 </ol>
 
-                For other questions, please contact Pastor Paul at <a href="mailto:pauldhjeong@yahoo.com">pauldhjeong@yahoo.com</a>
+                For other questions, please contact Pastor Travis at <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
 
             </p>
 
             <h2 id="ourStaff">Our Staff</h2>
             <p>
                 <b>Pastoral Staff:</b>
-                Rev. Dong Hyeon "Paul" Jeong - Pastor 
+                Pastor Sang Hyun "Travis" Lee - Pastor 
                 <br>
                 <b>Lay Leaders:</b><br>
                 Andy K. (Small Groups and Mission)<br>

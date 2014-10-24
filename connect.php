@@ -49,7 +49,7 @@ Aletheia ministries strive to care locally and globally through Christ's love.
 <p>
 <b>Pastor on Call</b>
 <br>
-If you need to talk about theological matters, looking for connection in the life of the church, or in need of pastoral care, please contact Pastor Paul for an appointment: <a href="mailto:pauldhjeong@yahoo.com">pauldhjeong@yahoo.com</a>
+If you need to talk about theological matters, looking for connection in the life of the church, or in need of pastoral care, please contact Pastor Travis for an appointment: <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
 </p>
 <p>
 <b>Community Life Care</b>

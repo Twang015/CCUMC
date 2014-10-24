@@ -68,7 +68,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <!-- <li>CCUMC Mission Trip: 8/11 - 8/13</li> -->
+            <li>Church Clean Up: 10/25 @8 AM.</li>
             
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>

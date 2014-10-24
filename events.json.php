@@ -184,6 +184,38 @@
 			"class": "event-special",
 			"start": "1409727600000",
 			"end": "1409727600000"
+		},
+		{
+			"id": "24",
+			"title": "Game Night!: Meet at church @7:30 PM",
+			"url": "",
+			"class": "event-success",
+			"start": "1411180200000",
+			"end": "1411189200000"
+		},
+		{
+			"id": "25",
+			"title": "Birthday: Heejun Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1413183600000",
+			"end": "1413183600000"
+		},
+		{
+			"id": "26",
+			"title": "Birthday: Richard Yang",
+			"url": "",
+			"class": "event-special",
+			"start": "1414134000000",
+			"end": "1414134000000"
+		},
+		{
+			"id": "27",
+			"title": "Church Clean Up",
+			"url": "",
+			"class": "event-success",
+			"start": "1414249200000",
+			"end": "1414263600000"
 		}
 
 	]
