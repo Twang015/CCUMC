@@ -39,6 +39,9 @@
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
+      <div class="item">
+        <img src="img/fall-cleaning.jpg" alt="Fall Cleanup" class="carouselSize">        
+      </div>
       <!-- <div class="item">
         <a href="https://www.facebook.com/events/1447808718817480/" target="_blank"><img src="img/beachday.jpg" alt="Click for more details." class="carouselSize"></a>
       </div>
@@ -68,7 +71,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Church Clean Up: 10/25 @8 AM.</li>
+            <li>Church Clean Up: 11/1 @8 AM.</li>
             
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>

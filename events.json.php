@@ -214,8 +214,8 @@
 			"title": "Church Clean Up",
 			"url": "",
 			"class": "event-success",
-			"start": "1414249200000",
-			"end": "1414263600000"
+			"start": "1414854000000",
+			"end": "1414868400000"
 		}
 
 	]
