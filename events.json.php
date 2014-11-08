@@ -216,6 +216,86 @@
 			"class": "event-success",
 			"start": "1414854000000",
 			"end": "1414868400000"
+		},
+		{
+			"id": "28",
+			"title": "Movie Night: Meet at church @5:00 PM",
+			"url": "",
+			"class": "event-success",
+			"start": "1415494800000",
+			"end": "1415505600000"
+		},
+		{
+			"id": "29",
+			"title": "Birthday: Andy Kim",
+			"url": "",
+			"class": "event-special",
+			"start": "1416988800000",
+			"end": "1416988800000"		
+		},
+		{
+			"id": "30",
+			"title": "Birthday: Andrew Rhim",
+			"url": "",
+			"class": "event-special",
+			"start": "1416988800000",
+			"end": "1416988800000"		
+		},
+		{
+			"id": "31",
+			"title": "Birthday: Jenny Hong",
+			"url": "",
+			"class": "event-special",
+			"start": "1417075200000",
+			"end": "1417075200000"		
+		},
+		{
+			"id": "32",
+			"title": "Thanksgiving Service",
+			"url": "",
+			"class": "event-success",
+			"start": "1416770100000",
+			"end": "1416776400000"		
+		},
+		{
+			"id": "33",
+			"title": "Christmas Service",
+			"url": "",
+			"class": "event-success",
+			"start": "1419189300000",
+			"end": "1419195600000"		
+		},
+		{
+			"id": "34",
+			"title": "Christmas Eve Special Service",
+			"url": "",
+			"class": "event-success",
+			"start": "1419476400000",
+			"end": "1419483600000"		
+		},
+		{
+			"id": "35",
+			"title": "Potluck: Last Friday Night of the Year!",
+			"url": "",
+			"class": "event-success",
+			"start": "1419046200000",
+			"end": "1419055200000"		
+		},
+		{
+			"id": "36",
+			"title": "Birthday: Ryan Yoo",
+			"url": "",
+			"class": "event-special",
+			"start": "1419667200000",
+			"end": "1419667200000"		
+		},
+		{
+			"id": "37",
+			"title": "Birthday: James Hong",
+			"url": "",
+			"class": "event-special",
+			"start": "1417680000000",
+			"end": "1417680000000"		
 		}
 
 	]

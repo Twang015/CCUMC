@@ -39,10 +39,11 @@
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
+      <!--
       <div class="item">
         <img src="img/fall-cleaning.jpg" alt="Fall Cleanup" class="carouselSize">        
       </div>
-      <!-- <div class="item">
+      <div class="item">
         <a href="https://www.facebook.com/events/1447808718817480/" target="_blank"><img src="img/beachday.jpg" alt="Click for more details." class="carouselSize"></a>
       </div>
       -->
@@ -71,8 +72,11 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Church Clean Up: 11/1 @8 AM.</li>
-            
+            <li>Monthly Activity - Movie Night!: 11/08. Meet at church at 5:00 PM.</li>
+            <li>Thanksgiving Joint Service: 11/23 @11:15 AM.</li>
+            <li>Last Friday Night Bible Study of 2014 - Potluck!: 12/19 @7:30 PM.</li>
+            <li>Christmas Joint Service: 12/21 @11:15 AM.</li>
+            <li>Christmas Eve Special Service: 12/24 @7:00 PM.</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

@@ -124,14 +124,12 @@
                 <b>Pastoral Staff:</b>
                 Pastor Sang Hyun "Travis" Lee - Pastor 
                 <br>
-                <b>Lay Leaders:</b><br>
-                Andy K. (Small Groups and Mission)<br>
-                Andrew, Micky, Hee Jun, David (Praise)<br>
-                Jenny, Jong Duk, Andy Y. (Worship)<br>
-                Jennifer (Finance)<br>
-                Chris, Stephanie (Activities)<br>
-                Aaron T. (Community Life)<br>
-                Tim, Young (Communications)<br>
+                <b>Core Leaders:</b><br>
+                Andy Kim<br>
+                Chris Lee<br>
+                Young Park<br>
+
+                
             </p>
 
         </div>
