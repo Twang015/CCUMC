@@ -296,6 +296,22 @@
 			"class": "event-special",
 			"start": "1417680000000",
 			"end": "1417680000000"		
+		},
+		{
+			"id": "38",
+			"title": "Broom Ball! Dublin Ice Rink",
+			"url": "",
+			"class": "event-success",
+			"start": "1419147000000",
+			"end": "1419148800000"		
+		},
+		{
+			"id": "39",
+			"title": "Operation Christmas Child Preparation",
+			"url": "",
+			"class": "event-success",
+			"start": "1416636000000",
+			"end": "1416639600000"		
 		}
 
 	]
