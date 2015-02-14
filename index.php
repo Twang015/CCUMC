@@ -40,7 +40,10 @@
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
       <div class="item">
-        <img src="img/AletheiaBroomBall.jpg" alt="Broom Ball!" class="carouselSize">        
+        <img src="img/potluck.jpg" alt="Mardi Gras Potluck!" class="carouselSize">        
+      </div>
+      <div class="item">
+        <a href="https://www.facebook.com/events/885683598120238/" target="_blank"><img src="img/Bowling_945.jpg" alt="Bowling!" class="carouselSize"></a>
       </div>
       <!--
       <div class="item">
@@ -72,12 +75,8 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Operation Christmas Child Prep: 11/21 after Bible Study.</li>
-            <li>Thanksgiving Joint Service: 11/23 @11:15 AM.</li>
-            <li>Last Friday Night Bible Study of 2014 - Potluck!: 12/19 @7:30 PM.</li>
-            <li>Monthly Activity - Broom Ball!: Dublin Ice Rink 12/20 @11:30 PM.</li>
-            <li>Christmas Joint Service: 12/21 @11:15 AM.</li>
-            <li>Christmas Eve Special Service: 12/24 @7:00 PM.</li>
+            <li>Mardi Gras Potluck - at Church 2/17 @7:30 PM.</li>
+            <li>Monthly Activity - Bowling: Clayton Valley Bowl 2/21 @7:30 PM.</li>            
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

@@ -29,18 +29,12 @@
 <p>
 Whether you want to sit in the back of the pews or lead the worship, we have a place for you to find your spiritual home! We highly value your presence - no pressure, no requirements. 
 If you want to participate more in the church, then we have more than enough space for you to express your spirituality in Christ either through music, worship leadership, media service, or any other gifts that you could share. 
-<p>
-If you have more questions, please contact the Worship Committee Leaders. 
-</p>
 </p>
 
 <h4 id="connectDisciple">Discipleship</h4>
 <p>
 Our small group meetings are intentional communities that seriously cater to the spiritual needs of the members during the week. We believe in small groups as "church within a church" model in which members of the church meet weekly to discuss about the Scripture, talk about life matters, and build relationships.
 We also have informal gatherings for activities and table fellowship. We like to have fun and eat out! So, join us for laughter, food, and fun conversations happening all throughout the year. 
-<p>
-If you have more questions, please contact the Activities Committee Leaders.
-</p>
 </p>
 
 <h4 id="connectShare">Sharing</h4>
@@ -55,18 +49,17 @@ If you need to talk about theological matters, looking for connection in the lif
 <b>Community Life Care</b>
 <br>
 Do you need a support group who will help you through with life's difficulties? Our leaders are available for lay counseling and coaching with the goal of receiving restoration from God. 
-<p>
-If you have more questions, please contact the Community Life Committee Leaders.
-</p>
 </p>
 <p>
 <b>Mission</b>
 <br>
 Would you like to participate in volunteer work and/or mission? Aletheia ministries desires to share its gifts with its immediate community and the world. Join us and share as well your presence, gifts, and blessings. 
+</p>
+
 <p>
-If you have more questions, please contact the Missions Committee Leaders.
+For more information or to get involved, please contact Pastor Travis: <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
 </p>
-</p>
+
 </p>
 
 

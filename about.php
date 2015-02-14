@@ -105,14 +105,11 @@
                 We have eight ministries for you to join! We value your heart and dedication for God, so there is always room for you to share your gifts with us and the world.
 
                 <ol>
-                    <li>Praise ministry</li>
-                    <li>Mission ministry</li>
-                    <li>Worship ministry - includes Welcoming Team</li>
+                    <li>Praise & Worship ministry</li>
+                    <li>Small Group, Missions, Community Life ministry</li>
                     <li>Activities ministry</li>
-                    <li>Community Life ministry (Lay Pastoral Care Team)</li>
-                    <li>Media and Communications ministry</li>
-                    <li>Finance ministry</li>
-                    <li>Small Groups ministry</li>
+                    <li>Media & Communications ministry</li>
+                    <li>Finance ministry</li>                    
                 </ol>
 
                 For other questions, please contact Pastor Travis at <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
@@ -127,9 +124,7 @@
                 <b>Core Leaders:</b><br>
                 Andy Kim<br>
                 Chris Lee<br>
-                Young Park<br>
-
-                
+                Young Park<br>                
             </p>
 
         </div>
