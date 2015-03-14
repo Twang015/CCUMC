@@ -39,12 +39,6 @@
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
       </div>
-      <div class="item">
-        <img src="img/potluck.jpg" alt="Mardi Gras Potluck!" class="carouselSize">        
-      </div>
-      <div class="item">
-        <a href="https://www.facebook.com/events/885683598120238/" target="_blank"><img src="img/Bowling_945.jpg" alt="Bowling!" class="carouselSize"></a>
-      </div>
       <!--
       <div class="item">
         <a href="https://www.facebook.com/events/1447808718817480/" target="_blank"><img src="img/beachday.jpg" alt="Click for more details." class="carouselSize"></a>
@@ -75,8 +69,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Mardi Gras Potluck - at Church 2/17 @7:30 PM.</li>
-            <li>Monthly Activity - Bowling: Clayton Valley Bowl 2/21 @7:30 PM.</li>            
+            <li>Monthly Activity - BBQ Picnic 3/21, Arbolado Park, Walnut Creek @10:00 AM.</li>            
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

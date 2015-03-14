@@ -328,6 +328,30 @@
 			"class": "event-success",
 			"start": "1424575800000",
 			"end": "1424583000000"		
+		},
+		{
+			"id": "42",
+			"title": "BBQ Picnic - Arbolado Park Walnut Creek",
+			"url": "",
+			"class": "event-success",
+			"start": "1426957200000",
+			"end": "1426982400000"		
+		},
+		{
+			"id": "43",
+			"title": "Birthday: Jennifer Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1425456000000",
+			"end": "1425456000000"		
+		},
+		{
+			"id": "44",
+			"title": "Birthday: Soyoung No",
+			"url": "",
+			"class": "event-special",
+			"start": "1428303600000",
+			"end": "1428303600000"		
 		}
 
 	]
