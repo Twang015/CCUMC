@@ -352,6 +352,14 @@
 			"class": "event-special",
 			"start": "1428303600000",
 			"end": "1428303600000"		
+		},
+		{
+			"id": "45",
+			"title": "Earth Day Service: Bring your pets!",
+			"url": "",
+			"class": "event-success",
+			"start": "1429477200000",
+			"end": "1429484400000"		
 		}
 
 	]

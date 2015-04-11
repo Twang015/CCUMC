@@ -69,7 +69,8 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Monthly Activity - BBQ Picnic 3/21, Arbolado Park, Walnut Creek @10:00 AM.</li>            
+            <li>Earth Day Service: Sunday, April 19 @2:00 PM. Bring your pets for a blessing!</li>
+            <li>3rd Annual Kickball Tournament: June 27, 2015 Harker Middle School @8:00 AM.</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>
