@@ -360,6 +360,30 @@
 			"class": "event-success",
 			"start": "1429477200000",
 			"end": "1429484400000"		
+		},
+		{
+			"id": "46",
+			"title": "Birthday: Aaron Ting",
+			"url": "",
+			"class": "event-special",
+			"start": "1431673200000",
+			"end": "1431673200000"		
+		},
+		{
+			"id": "47",
+			"title": "Birthday: Jason Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1432018800000",
+			"end": "1432018800000"		
+		},
+		{
+			"id": "48",
+			"title": "Memorial Day Lock-in",
+			"url": "",
+			"class": "event-success",
+			"start": "1432508400000",
+			"end": "1432580400000"		
 		}
 
 	]
