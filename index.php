@@ -68,8 +68,7 @@
 
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
-          <ul>
-            <li>Memorial Day Lock-in: May 24 - 25, Fasting Chapel of N. California</li>
+          <ul>            
             <li>3rd Annual Kickball Tournament: June 27, 2015 Harker Middle School @8:00 AM.</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>

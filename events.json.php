@@ -384,6 +384,70 @@
 			"class": "event-success",
 			"start": "1432508400000",
 			"end": "1432580400000"		
+		},
+		{
+			"id": "49",
+			"title": "3rd Annual Acts Kickball Tournament",
+			"url": "",
+			"class": "event-success",
+			"start": "1435417200000",
+			"end": "1435449600000"		
+		},
+		{
+			"id": "50",
+			"title": "Birthday: Won Jun Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1434351600000",
+			"end": "1434351600000"
+		},
+		{
+			"id": "51",
+			"title": "Birthday: Kwan Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1432796400000",
+			"end": "1432796400000"
+		},
+		{
+			"id": "52",
+			"title": "Birthday: Tim Wang",
+			"url": "",
+			"class": "event-special",
+			"start": "1436511600000",
+			"end": "1436511600000"
+		},
+		{
+			"id": "53",
+			"title": "Birthday: Hwan Kim",
+			"url": "",
+			"class": "event-special",
+			"start": "1437548400000",
+			"end": "1437548400000"
+		},
+		{
+			"id": "54",
+			"title": "Birthday: Joyce Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1437634800000",
+			"end": "1437634800000"
+		},
+		{
+			"id": "55",
+			"title": "Birthday: David Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1438239600000",
+			"end": "1438239600000"
+		},
+		{
+			"id": "56",
+			"title": "Birthday: Jenna Han",
+			"url": "",
+			"class": "event-special",
+			"start": "1437634800000",
+			"end": "1437634800000"
 		}
 
 	]

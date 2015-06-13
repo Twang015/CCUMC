@@ -25,7 +25,7 @@
             <h2>Events and Activities</h2>
             <p>We currently track all of our events through Facebook. Please find more information on our <a href="https://www.facebook.com/groups/158626917493699/" target="_blank">Facebook page</a>.</p>
 
-            <h4>Annual ACTS Kickball Tournament</h4>
+            <h4>3rd Annual ACTS Kickball Tournament</h4>
             <a href="https://www.facebook.com/events/458914224260163/" target="_blank">
                 <img id="kickball3" class="img-responsive" src="img/acts-kickball3.jpg" height="600" width="472" alt="kickball tourney" title="Click to go to Facebook page">
             </a>
