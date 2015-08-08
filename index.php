@@ -69,7 +69,8 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>            
-            <li>3rd Annual Kickball Tournament: June 27, 2015 Harker Middle School @8:00 AM.</li>
+            <li>"Starry Night" camping trip: Mt. Diablo - August 14-15</li>
+            <li>Bible Quiz Night: Book of Acts - August 21 @7:30 PM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

@@ -448,6 +448,30 @@
 			"class": "event-special",
 			"start": "1437634800000",
 			"end": "1437634800000"
+		},
+		{
+			"id": "57",
+			"title": "Birthday: John Fisher",
+			"url": "",
+			"class": "event-special",
+			"start": "1438066800000",
+			"end": "1438066800000"
+		},
+		{
+			"id": "58",
+			"title": "Starry Night - Mt. Diablo camping",
+			"url": "",
+			"class": "event-success",
+			"start": "1439607600000",
+			"end": "1439661600000"
+		},
+		{
+			"id": "59",
+			"title": "Bible Quiz Night: Book of Acts",
+			"url": "",
+			"class": "event-success",
+			"start": "1440210600000",
+			"end": "1440219600000"
 		}
 
 	]
