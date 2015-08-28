@@ -123,7 +123,7 @@
                 <br>
                 <b>Core Leaders:</b><br>
                 Andy Kim<br>
-                Chris Lee<br>
+                Aaron Ting<br>
                 Young Park<br>                
             </p>
 
