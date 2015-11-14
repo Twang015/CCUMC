@@ -69,11 +69,13 @@
         <div class="col-md-9">
             <div id="calendar"></div>
         </div>
+
+<!--
         <div class="col-md-3">
             <h4>Events</h4>            
             <ul id="eventlist" class="nav nav-list"></ul>
         </div>
-
+-->
         </div>
 
         <hr>

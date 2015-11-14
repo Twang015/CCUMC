@@ -472,6 +472,78 @@
 			"class": "event-success",
 			"start": "1440210600000",
 			"end": "1440219600000"
+		},	
+		{
+			"id": "60",
+			"title": "Friday Night @7:30 PM - Special Guest: Yeji Kim",
+			"url": "",
+			"class": "event-success",
+			"start": "1443234600000",
+			"end": "1443245400000"
+		},
+		{
+			"id": "61",
+			"title": "Birthday: Richard Yang",
+			"url": "",
+			"class": "event-special",
+			"start": "1445670000000",
+			"end": "1445670000000"
+		},
+		{
+			"id": "62",
+			"title": "Birthday: Peter Rhim",
+			"url": "",
+			"class": "event-special",
+			"start": "1446188400000",
+			"end": "1446188400000"
+		},
+		{
+			"id": "63",
+			"title": "Bible Quiz - Revelation @7:30 PM",
+			"url": "",
+			"class": "event-success",
+			"start": "1447471800000",
+			"end": "1447482600000"
+		},
+		{
+			"id": "64",
+			"title": "Operation Christmas Child Lock-in @7:30 PM",
+			"url": "",
+			"class": "event-success",
+			"start": "1448076600000",
+			"end": "1448130600000"
+		},
+		{
+			"id": "65",
+			"title": "Thanksgiving Sunday Joint Service @11:15 AM",
+			"url": "",
+			"class": "event-success",
+			"start": "1448219700000",
+			"end": "1448226000000"
+		},
+		{
+			"id": "66",
+			"title": "Birthday: Andy Kim",
+			"url": "",
+			"class": "event-special",
+			"start": "1448524800000",
+			"end": "1448524800000"
+		},
+		{
+			"id": "67",
+			"title": "Birthday: Andrew Rhim",
+			"url": "",
+			"class": "event-special",
+			"start": "1448524800000",
+			"end": "1448524800000"
+		},
+		{
+			"id": "68",
+			"title": "Birthday: Jenny Hong",
+			"url": "",
+			"class": "event-special",
+			"start": "1448611200000",
+			"end": "1448611200000"
 		}
 
 	]

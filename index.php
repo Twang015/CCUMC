@@ -37,13 +37,11 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/Main.png" alt="Welcome!" class="carouselSize">        
-      </div>
-      <!--
+        <img src="img/Main.png" alt="Welcome!" class="carouselSize">
+      </div>      
       <div class="item">
-        <a href="https://www.facebook.com/events/1447808718817480/" target="_blank"><img src="img/beachday.jpg" alt="Click for more details." class="carouselSize"></a>
+        <img src="img/Pray-for-France.jpg" alt="Pray" class="carouselSize">
       </div>
-      -->
     </div>
 
   <!-- Controls -->
@@ -69,8 +67,9 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>            
-            <li>"Starry Night" camping trip: Mt. Diablo - August 14-15</li>
-            <li>Bible Quiz Night: Book of Acts - August 21 @7:30 PM</li>
+            <li>Bible Quiz - Revelation: 11/13/2015 @7:30 PM</li>
+            <li>Operation Christmas Child Lock-In: 11/20/2015 @7:30 PM</li>
+            <li>Thanksgiving Sunday - Joint Service: 11/22/2015 @11:15 AM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>
