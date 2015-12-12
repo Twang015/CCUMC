@@ -544,6 +544,62 @@
 			"class": "event-special",
 			"start": "1448611200000",
 			"end": "1448611200000"
+		},
+		{
+			"id": "69",
+			"title": "End Of Year Celebration!",
+			"url": "",
+			"class": "event-success",
+			"start": "1450495800000",
+			"end": "1450504800000"
+		},
+		{
+			"id": "70",
+			"title": "Christmas Sunday Joint Service",
+			"url": "",
+			"class": "event-success",
+			"start": "1450638900000",
+			"end": "1450645200000"
+		},
+		{
+			"id": "71",
+			"title": "Christmas Eve Service",
+			"url": "",
+			"class": "event-success",
+			"start": "1451005200000",
+			"end": "1451012400000"
+		},
+		{
+			"id": "72",
+			"title": "Winter Retreat 2015",
+			"url": "",
+			"class": "event-success",
+			"start": "1451250000000",
+			"end": "1451430000000"
+		},
+		{
+			"id": "73",
+			"title": "Birthday: James Hong",
+			"url": "",
+			"class": "event-special",
+			"start": "1449216000000",
+			"end": "1449216000000"
+		},
+		{
+			"id": "74",
+			"title": "Birthday: Tabitha Hsia",
+			"url": "",
+			"class": "event-special",
+			"start": "1449561600000",
+			"end": "1449561600000"
+		},
+		{
+			"id": "75",
+			"title": "Birthday: Ryan Yoo",
+			"url": "",
+			"class": "event-special",
+			"start": "1451203200000",
+			"end": "1451203200000"
 		}
 
 	]
