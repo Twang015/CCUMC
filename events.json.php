@@ -600,6 +600,30 @@
 			"class": "event-special",
 			"start": "1451203200000",
 			"end": "1451203200000"
+		},
+		{
+			"id": "76",
+			"title": "Mardi Gras Dumpling Party",
+			"url": "",
+			"class": "event-success",
+			"start": "1455073200000",
+			"end": "1455080400000"
+		},
+		{
+			"id": "77",
+			"title": "Birthday: Hyunji Park",
+			"url": "",
+			"class": "event-special",
+			"start": "1451721600000",
+			"end": "1451721600000"
+		},
+		{
+			"id": "78",
+			"title": "Birthday: Chris Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1452758400000",
+			"end": "1452758400000"
 		}
 
 	]

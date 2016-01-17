@@ -39,9 +39,9 @@
       <div class="item active">
         <img src="img/Main.png" alt="Welcome!" class="carouselSize">
       </div>      
-      <div class="item">
+      <!-- <div class="item">
         <img src="img/Pray-for-France.jpg" alt="Pray" class="carouselSize">
-      </div>
+      </div> -->
     </div>
 
   <!-- Controls -->
@@ -67,10 +67,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>            
-            <li>End of Year Celebration! Friday, 12/18/2015 @7:30 PM</li>
-            <li>Christmas Sunday Joint Service: 12/20/2015 @11:15 AM</li>
-            <li>Christmas Eve Service: 12/24/2015 @5:00 PM</li>
-            <li>Winter Retreat: Sun, 12/27 - Tues, 12/29</li>
+            <li>Mardi Gras Dumpling Party: Tuesday, Feb 9, 2016 @7:00 PM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

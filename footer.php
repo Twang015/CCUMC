@@ -1,7 +1,7 @@
 <footer class="caro">
     <div class="container"> 
     	<div <div class="footerstyle1">
-    		<p class="footer">&copy; Aletheia Ministries 2015</p>
+    		<p class="footer">&copy; Aletheia Ministries 2016</p>
     		</div>
     	<div <div class="footerstyle2">		
 			<p class="social-icons">
