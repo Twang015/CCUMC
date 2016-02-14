@@ -68,6 +68,8 @@
           <h2>Upcoming Events</h2>
           <ul>            
             <li>Mardi Gras Dumpling Party: Tuesday, Feb 9, 2016 @7:00 PM</li>
+            <li>Angel's Ministry Special Service: Sunday, Feb 14, 2016 @2:00 PM</li>
+            <li>Easter Sunday Joint Service: Sunday, March 27, 2016 @11:15 AM</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>
