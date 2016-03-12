@@ -624,6 +624,30 @@
 			"class": "event-special",
 			"start": "1452758400000",
 			"end": "1452758400000"
+		},
+		{
+			"id": "79",
+			"title": "Birthday: Jennifer Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1457078400000",
+			"end": "1457078400000"
+		},
+		{
+			"id": "79",
+			"title": "Birthday: Jaeman Park",
+			"url": "",
+			"class": "event-special",
+			"start": "1457424000000",
+			"end": "1457424000000"
+		},
+		{
+			"id": "76",
+			"title": "Easter Sunday: Joint Service",
+			"url": "",
+			"class": "event-success",
+			"start": "1459102500000",
+			"end": "1459108800000"
 		}
 
 	]
