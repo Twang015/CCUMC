@@ -642,12 +642,20 @@
 			"end": "1457424000000"
 		},
 		{
-			"id": "76",
+			"id": "80",
 			"title": "Easter Sunday: Joint Service",
 			"url": "",
 			"class": "event-success",
 			"start": "1459102500000",
 			"end": "1459108800000"
+		},
+		{
+			"id": "81",
+			"title": "Birthday: Soyoung No",
+			"url": "",
+			"class": "event-special",
+			"start": "1459926000000",
+			"end": "1459926000000"
 		}
 
 	]

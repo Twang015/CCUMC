@@ -67,14 +67,14 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Easter Sunday Joint Service: Sunday, March 27, 2016 @11:15 AM</li>
+            <li></li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/t26wss3t61jx5lb/Sunday%20Sermon%20-%20June%201st%202014.mp3">June 1st 2014 Sermon</a></h3>
+          <h3><a href="https://www.dropbox.com/s/t26wss3t61jx5lb/Sunday%20Sermon%20-%20June%201st%202014.mp3">June 1st 2014 Sermon</a></h3> 
           <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=1+PETER+4%3A12-14%3B5%3A6-11&version=ESV" target="_blank">1 Peter 4:12-14, 5:6-11</a></p>
           <br>
 
