@@ -656,6 +656,54 @@
 			"class": "event-special",
 			"start": "1459926000000",
 			"end": "1459926000000"
+		},
+		{
+			"id": "82",
+			"title": "Summer Getaway",
+			"url": "",
+			"class": "event-success",
+			"start": "1466146800000",
+			"end": "1466319600000"
+		},
+		{
+			"id": "83",
+			"title": "Guest Speaker: Rev. Ki-Do Ahn",
+			"url": "",
+			"class": "event-success",
+			"start": "1466974800000",
+			"end": "1466980200000"
+		},
+		{
+			"id": "84",
+			"title": "Birthday: Wonjun Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1465974000000",
+			"end": "1465974000000"
+		},
+		{
+			"id": "85",
+			"title": "Birthday: Yoomi Choi",
+			"url": "",
+			"class": "event-special",
+			"start": "1462172400000",
+			"end": "1462172400000"
+		},
+		{
+			"id": "86",
+			"title": "Birthday: Aaron Ting",
+			"url": "",
+			"class": "event-special",
+			"start": "1463295600000",
+			"end": "1463295600000"
+		},
+		{
+			"id": "87",
+			"title": "Birthday: Jason Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1463641200000",
+			"end": "1463641200000"
 		}
 
 	]
