@@ -67,8 +67,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li>Summer Getaway, June 17-19</li>
-            <li>Guest Speaker: Rev. Ki-Do Ahn, June 26, 2:00 PM</li>
+            <li></li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

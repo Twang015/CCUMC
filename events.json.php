@@ -704,6 +704,38 @@
 			"class": "event-special",
 			"start": "1463641200000",
 			"end": "1463641200000"
+		},
+		{
+			"id": "88",
+			"title": "Birthday: Tim Wang",
+			"url": "",
+			"class": "event-special",
+			"start": "1468134000000",
+			"end": "1468134000000"
+		},
+		{
+			"id": "89",
+			"title": "Birthday: Hwan Kim",
+			"url": "",
+			"class": "event-special",
+			"start": "1469170800000",
+			"end": "1469170800000"
+		},
+		{
+			"id": "90",
+			"title": "Birthday: Joyce Yoon",
+			"url": "",
+			"class": "event-special",
+			"start": "1469257200000",
+			"end": "1469257200000"
+		},
+		{
+			"id": "91",
+			"title": "Birthday: David Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1469862000000",
+			"end": "1469862000000"
 		}
 
 	]
