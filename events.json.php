@@ -736,6 +736,22 @@
 			"class": "event-special",
 			"start": "1469862000000",
 			"end": "1469862000000"
+		},
+		{
+			"id": "92",
+			"title": "Birthday: Jungmin Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1472022000000",
+			"end": "1472022000000"
+		},
+		{
+			"id": "93",
+			"title": "Birthday: Tara Smith",
+			"url": "",
+			"class": "event-special",
+			"start": "1472108400000",
+			"end": "1472108400000"
 		}
 
 	]
