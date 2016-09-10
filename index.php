@@ -67,7 +67,7 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            <li></li>
+            <li>Winter Retreat 2016 - "Christian Identity: How to Live our Christian Lives" - Zephyr Point - December 16-18</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>

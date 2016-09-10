@@ -752,6 +752,38 @@
 			"class": "event-special",
 			"start": "1472108400000",
 			"end": "1472108400000"
+		},
+		{
+			"id": "94",
+			"title": "Birthday: Seyeon Min",
+			"url": "",
+			"class": "event-special",
+			"start": "1474441200000",
+			"end": "1474441200000"
+		},
+		{
+			"id": "95",
+			"title": "Birthday: Heejun Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1476342000000",
+			"end": "1476342000000"
+		},
+		{
+			"id": "96",
+			"title": "Birthday: Richard Yang",
+			"url": "",
+			"class": "event-special",
+			"start": "1477292400000",
+			"end": "1477292400000"
+		},
+		{
+			"id": "97",
+			"title": "Birthday: Peter Rhim",
+			"url": "",
+			"class": "event-special",
+			"start": "1477810800000",
+			"end": "1477810800000"
 		}
 
 	]
