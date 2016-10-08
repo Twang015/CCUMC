@@ -784,6 +784,14 @@
 			"class": "event-special",
 			"start": "1477810800000",
 			"end": "1477810800000"
+		},
+		{
+			"id": "98",
+			"title": "Birthday: Heejun Lee",
+			"url": "",
+			"class": "event-special",
+			"start": "1475910000000",
+			"end": "1475910000000"
 		}
 
 	]
