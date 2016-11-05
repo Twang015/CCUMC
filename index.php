@@ -67,6 +67,9 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
+            <li>Operation Christmas Child Gift Wrapping - Friday, November 18 @6:00 PM</li>
+            <li>Operation Christmas Child Delivery (meet at church) - Saturday, November 19 @11:00 AM</li>
+            <li>Thanksgiving Joint Service - Sunday, November 20 @10:15 AM</li>
             <li>Winter Retreat 2016 - "Christian Identity: How to Live our Christian Lives" - Zephyr Point - December 16-18</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>

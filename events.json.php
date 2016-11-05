@@ -792,6 +792,30 @@
 			"class": "event-special",
 			"start": "1475910000000",
 			"end": "1475910000000"
+		},
+		{
+			"id": "99",
+			"title": "Birthday: Andrew Rhim",
+			"url": "",
+			"class": "event-special",
+			"start": "1480147200000",
+			"end": "1480147200000"
+		},
+		{
+			"id": "100",
+			"title": "Birthday: Andy Kim",
+			"url": "",
+			"class": "event-special",
+			"start": "1480147200000",
+			"end": "1480147200000"
+		},
+		{
+			"id": "101",
+			"title": "Birthday: Jenny Hong",
+			"url": "",
+			"class": "event-special",
+			"start": "1480233600000",
+			"end": "1480233600000"
 		}
 
 	]
