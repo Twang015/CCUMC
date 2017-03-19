@@ -68,20 +68,20 @@
             <p>
                 <b>What are your service schedules?</b>
                 <br>
-                Sunday Worship: 2:00pm<br>
-                Friday Gathering: 7:30pm<br>
-                Small Group Meetings: varies (please contact Pastor Travis: <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>)
+                Sunday Worship: 2:00 PM<br>
+                First Friday Service (first Friday of each month): 7:30 PM<br>
+                Small Group Meetings: varies 
             </p>
             <p>
                 <b>What's Sunday Service like?</b>
                 <br>
-                Our worship is a mixture of contemporary and traditional liturgies. We celebrate the Eucharist every first Sunday. 
+                Our worship is a mixture of contemporary and traditional liturgies.
                 We expect and love your presence here! You can expect to be greeted by friendly people as soon as you arrive. After worship, we hope that you would hang out with us for further conversations. 
             </p>
             <p>
-                <b>What's Friday Gathering like?</b>
+                <b>What's First Friday Service like?</b>
                 <br>
-                Too tired to cook food on Friday night? No worries! Friday gatherings begin with dinner at 7:30pm. After we are physically fed, we move to the main sanctuary to be spiritually fed through praise and prayer. Then, we transition to Bible Study or special events in the fellowship hall. 
+                Too tired to cook food on Friday night? No worries! On the first Friday of each month, the First Friday gatherings begin with dinner at 7:30pm. After we are physically fed, we move to the main sanctuary to be spiritually fed through praise and prayer. Then, we transition to Bible Study or special events in the fellowship hall. 
             </p>
             <p>
                 <b>What's Small Group Meetings like?</b>
@@ -112,14 +112,15 @@
                     <li>Finance ministry</li>                    
                 </ol>
 
-                For other questions, please contact Pastor Travis at <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
+                <!--
+                For other questions, please contact Pastor Travis at <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a> -->
 
             </p>
 
             <h2 id="ourStaff">Our Staff</h2>
             <p>
                 <b>Pastoral Staff:</b>
-                Pastor Sang Hyun "Travis" Lee - Pastor 
+                Currently searching for pastoral candidates. To see the job requirements <a href="files/EM Pastor job Posting_Final.pdf">here</a>
                 <br>
                 <b>Core Leaders:</b><br>
                 Andy Kim<br>
