@@ -120,7 +120,7 @@
             <h2 id="ourStaff">Our Staff</h2>
             <p>
                 <b>Pastoral Staff:</b>
-                Currently searching for pastoral candidates. To see the job requirements <a href="files/EM Pastor job Posting_Final.pdf">here</a>
+                Currently searching for pastoral candidates. To download the job requirements/application click <a href="files/EM Pastor job Posting_Final.pdf">here</a>.
                 <br>
                 <b>Core Leaders:</b><br>
                 Andy Kim<br>
