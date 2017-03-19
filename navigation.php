@@ -40,7 +40,7 @@
           </ul>
 
           <div class="navbar-right">
-          <a href="#" id="location" class="navbar-brand navbar-times" data-container="body" data-toggle="popover" data-placement="bottom" data-trigger="hover" data-original-title="Worship Times and Location" data-content="Sunday Service: 2:00 PM <br> Friday Night Bible Study: 7:30 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Worship Times & Location</a>
+          <a href="#" id="location" class="navbar-brand navbar-times" data-container="body" data-toggle="popover" data-placement="bottom" data-trigger="hover" data-original-title="Worship Times and Location" data-content="Sunday Service: 2:00 PM <br> First Friday Service (first Friday of every month): 7:30 PM <br> Location: <a href='https://www.google.com/maps/place/260+Walnut+Ave/@37.91961,-122.030773' target='_blank'>260 Walnut Ave. Walnut Creek, CA 94598</a>">Worship Times & Location</a>
           </div>  
         </div><!--/.navbar-collapse -->
       </div>

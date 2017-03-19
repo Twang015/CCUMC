@@ -41,10 +41,12 @@ We also have informal gatherings for activities and table fellowship. We like to
 <p>
 Aletheia ministries strive to care locally and globally through Christ's love. 
 <p>
+<!--
 <b>Pastor on Call</b>
 <br>
 If you need to talk about theological matters, looking for connection in the life of the church, or in need of pastoral care, please contact Pastor Travis for an appointment: <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
 </p>
+-->
 <p>
 <b>Community Life Care</b>
 <br>
@@ -55,11 +57,11 @@ Do you need a support group who will help you through with life's difficulties? 
 <br>
 Would you like to participate in volunteer work and/or mission? Aletheia ministries desires to share its gifts with its immediate community and the world. Join us and share as well your presence, gifts, and blessings. 
 </p>
-
+<!--
 <p>
 For more information or to get involved, please contact Pastor Travis: <a href="mailto:slee41@ses.gtu.edu">slee41@ses.gtu.edu</a>
 </p>
-
+-->
 </p>
 
 
