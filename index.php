@@ -67,15 +67,15 @@
         <div class="col-lg-4">
           <h2>Upcoming Events</h2>
           <ul>
-            
+            <li>Fall Retreat: September 29 - October 1</li>
           </ul>
           <p><a class="btn btn-default" href="events.php">More Details &raquo;</a></p>
         </div>
 
         <div class="col-lg-4">
           <h2>Recent Sermons</h2>
-          <h3><a href="https://www.dropbox.com/s/t26wss3t61jx5lb/Sunday%20Sermon%20-%20June%201st%202014.mp3">June 1st 2014 Sermon</a></h3> 
-          <p>The passage is from <a href="http://www.biblegateway.com/passage/?search=1+PETER+4%3A12-14%3B5%3A6-11&version=ESV" target="_blank">1 Peter 4:12-14, 5:6-11</a></p>
+          <h3><a href="files/sermonaudio/2017.08.27 Aletheia Sunday Service.mp3" target="_blank">August 27th 2017 Sermon</a></h3> 
+          <p>The passage is from <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+13:4-8" target="_blank">1 Corinthians 13:4-8</a></p>
           <br>
 
           <p><a class="btn btn-default" href="sermon-audio.php">More Sermons &raquo;</a></p>

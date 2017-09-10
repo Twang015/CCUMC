@@ -27,6 +27,38 @@
                 <div class="col-lg-8">
                     <h2>Sermon Audio</h2>
                     <p>These are links to the past sermons</p>
+                    <h4>2017</h4>
+                    <ul>
+                        <li><a href="files/sermonaudio/2017.08.27 Aletheia Sunday Service.mp3" target="_blank">August 27, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.07.16 Aletheia Sunday Service.mp3" target="_blank">July 16, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.07.09 Aletheia Sunday Service.mp3" target="_blank">July 9, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.07.02 Aletheia Sunday Service.mp3" target="_blank">July 2, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.06.18 Aletheia Sunday Service.mp3" target="_blank">June 18, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.06.03 Aletheia Sunday Service.mp3" target="_blank">June 3, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.05.28 Aletheia Sunday Service.mp3" target="_blank">May 28, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.05.21 Aletheia Sunday Service.mp3" target="_blank">May 21, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.05.14 Aletheia Sunday Service.mp3" target="_blank">May 14, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.05.07 Aletheia Sunday Service.mp3" target="_blank">May 7, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.04.30 Aletheia Sunday Service.mp3" target="_blank">April 30, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.04.23 Aletheia Sunday Service.mp3" target="_blank">April 23, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.04.09 Aletheia Sunday Service.mp3" target="_blank">April 9, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.04.02 Aletheia Sunday Service.mp3" target="_blank">April 2, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.03.19 Aletheia Sunday Service.mp3" target="_blank">March 19, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.03.12 Aletheia Sunday Service.mp3" target="_blank">March 12, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.03.05 Aletheia Sunday Service.mp3" target="_blank">March 5, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.02.26 Aletheia Sunday Service.mp3" target="_blank">February 26, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.02.19 Aletheia Sunday Service.mp3" target="_blank">February 19, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.02.12 Aletheia Sunday Service.mp3" target="_blank">February 12, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.02.05 Aletheia Sunday Service.mp3" target="_blank">February 5, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.01.22 Aletheia Sunday Service.mp3" target="_blank">January 22, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.01.15 Aletheia Sunday Service.mp3" target="_blank">January 15, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.01.08 Aletheia Sunday Service.mp3" target="_blank">January 8, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2017.01.01 Aletheia Sunday Service.mp3" target="_blank">January 1, 2017</a> // <a href="">[bulletin]</a></li>
+                    </ul>
+                    <h4>2016</h4>
+                        <li><a href="files/sermonaudio/2016.12.11 Aletheia Sunday Service.mp3" target="_blank">December 11, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2016.12.06 Aletheia Sunday Service.mp3" target="_blank">December 6, 2017</a> // <a href="">[bulletin]</a></li>
+                        <li><a href="files/sermonaudio/2016.11.13 Aletheia Sunday Service.mp3" target="_blank">November 13, 2017</a> // <a href="">[bulletin]</a></li>
                     <h4>2014</h4>
                     <ul>
                         <li>September 7, 2014 // <a href="files/bulletins/9.7 Bulletin.pdf">[bulletin]</a></li>
